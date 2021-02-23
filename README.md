@@ -1,1 +1,1 @@
-Please read the files from "Presentation Documents" folder for more info. 
+Please read the files from "Presentation documents" folder for more info. 
